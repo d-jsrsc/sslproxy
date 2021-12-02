@@ -1,0 +1,17 @@
+{
+  "name": "tproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.1.4",
+    "http-proxy": "^1.18.1",
+    "http-proxy-agent": "^5.0.0"
+  }
+}
